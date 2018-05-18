@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex8exampleError\ex8exampleError\bin\Debug\ex8exampleError.exe.config
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex8exampleError\ex8exampleError\bin\Debug\ex8exampleError.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex8exampleError\ex8exampleError\bin\Debug\ex8exampleError.pdb
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex8exampleError\ex8exampleError\obj\Debug\ex8exampleError.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex8exampleError\ex8exampleError\obj\Debug\ex8exampleError.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex8exampleError\ex8exampleError\obj\Debug\ex8exampleError.pdb

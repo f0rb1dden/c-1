@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex7listbooks\ex7listbooks\bin\Debug\ex7listbooks.exe.config
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex7listbooks\ex7listbooks\bin\Debug\ex7listbooks.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex7listbooks\ex7listbooks\bin\Debug\ex7listbooks.pdb
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex7listbooks\ex7listbooks\obj\Debug\ex7listbooks.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex7listbooks\ex7listbooks\obj\Debug\ex7listbooks.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\ex7listbooks\ex7listbooks\obj\Debug\ex7listbooks.pdb
