@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\constructorakoli\constructorakoli\bin\Debug\constructorakoli.exe.config
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\constructorakoli\constructorakoli\obj\Debug\constructorakoli.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\constructorakoli\constructorakoli\bin\Debug\constructorakoli.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\constructorakoli\constructorakoli\bin\Debug\constructorakoli.pdb
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\constructorakoli\constructorakoli\obj\Debug\constructorakoli.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\constructorakoli\constructorakoli\obj\Debug\constructorakoli.pdb

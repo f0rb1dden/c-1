@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\deletemelater\deletemelater\bin\Debug\deletemelater.exe.config
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\deletemelater\deletemelater\bin\Debug\deletemelater.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\deletemelater\deletemelater\bin\Debug\deletemelater.pdb
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\deletemelater\deletemelater\obj\Debug\deletemelater.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\deletemelater\deletemelater\obj\Debug\deletemelater.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\deletemelater\deletemelater\obj\Debug\deletemelater.pdb

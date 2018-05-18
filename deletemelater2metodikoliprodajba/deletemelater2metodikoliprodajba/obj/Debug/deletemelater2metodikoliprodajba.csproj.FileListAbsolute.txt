@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\deletemelater2metodikoliprodajba\deletemelater2metodikoliprodajba\bin\Debug\deletemelater2metodikoliprodajba.exe.config
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\deletemelater2metodikoliprodajba\deletemelater2metodikoliprodajba\bin\Debug\deletemelater2metodikoliprodajba.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\deletemelater2metodikoliprodajba\deletemelater2metodikoliprodajba\bin\Debug\deletemelater2metodikoliprodajba.pdb
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\deletemelater2metodikoliprodajba\deletemelater2metodikoliprodajba\obj\Debug\deletemelater2metodikoliprodajba.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\deletemelater2metodikoliprodajba\deletemelater2metodikoliprodajba\obj\Debug\deletemelater2metodikoliprodajba.exe
+C:\Users\student\Desktop\DONT_TOUCH_ME\c####\deletemelater2metodikoliprodajba\deletemelater2metodikoliprodajba\obj\Debug\deletemelater2metodikoliprodajba.pdb
